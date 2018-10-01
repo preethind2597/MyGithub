@@ -1,5 +1,7 @@
 This Is Git Demo... Yey...!!!
 
+<<<<<<< HEAD
 --> Change-1
 
---> Change-2
+Change --> 2
+
